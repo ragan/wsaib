@@ -58,4 +58,10 @@ Kapitał z emisji obligacji:
     - obliczamy średni ważony koszt kapitału czyli Ux * Kx
     - sumujemy wszystkie Ux*Kx (czyli dla każdego rodzaju kapitału) i otrzymujemy średni koszt kapitału spółki wyrażony w %
 
-![image](https://user-images.githubusercontent.com/500560/224534965-1a9e96bc-c874-4195-ac6d-05e5dfa575df.png)
+|Składniki kapitału|Wartość rynkowa|Udział Ux|Koszt kapitału Kx(%)|Obliczenie średniego ważonego kosztu kapitału|
+|------------------|---------------|---------|--------------------|---------------------------------------------|
+|akcje uprzywilejowane|10 000 000|0,024|8|0,19%|
+|akcje zwykłe|261 000 000|0,630|22,6|14,24%|
+|obligacje|82 320 000|0,199|9,44|1,88%|
+|kredyt bankowy|60 800 000|0,147|8,1|1,19%|
+|suma|414 120 000|1,000||17,50%|
