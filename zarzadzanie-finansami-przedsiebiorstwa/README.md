@@ -33,5 +33,30 @@ Koszt kapitału akcyjnego zwykłego:
 Koszt kapitału z emisji obligacji:
 ```math
 \mathrm{V}_{0} = 1050*(1-\frac{2}{12}*\frac{12}{100})=1029zł
-
 ```
+```math
+\mathrm{K}_{0} = \frac{0,12*1000}{1029}*(1-0,19)*100\%=9,44\%
+```
+Koszt kapitału z kredytu bankowego:
+
+```math
+\mathrm{K}_{K} = 10*(1-0,19)=8,1\%
+```
+
+2. Wartość rynkową poszczególnych składników kapitału spółki obliczono następująco:
+
+Kapitał akcyjny uprzywilejowany:
+```math
+100 tys. akcji * 100zł / akcja = 10 000 000zł
+```
+Kapitał akcyjny zwykły:
+```math
+1 800 000 akcji * 145zł / akcja = 261 000 000zł
+```
+Kapitał z emisji obligacji:
+```math
+80000 obligacji * 1029zł/obligacja = 82 320 000zł
+```
+
+3. Średni koszt kapitału spółki:
+![image](https://user-images.githubusercontent.com/500560/224534965-1a9e96bc-c874-4195-ac6d-05e5dfa575df.png)
