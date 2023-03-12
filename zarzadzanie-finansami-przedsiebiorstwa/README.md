@@ -65,3 +65,5 @@ Kapitał z emisji obligacji:
 |obligacje|82 320 000|0,199|9,44|1,88%|
 |kredyt bankowy|60 800 000|0,147|8,1|1,19%|
 |suma|414 120 000|1,000||17,50%|
+
+Średni koszt kapitału spółki wynosi więc 17,50%
