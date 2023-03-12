@@ -13,14 +13,6 @@ Rozwiązanie zad. 3.1
 Algorytm postępowania:
 
 1. Obliczamy koszt (wyrażony w %) poszczególnych składowych kapitału spółki 
-2. Obliczamy wartość rynkową poszczególnych składników kapitału spółki
-3. Tworzymy tabelę z kolumnami:
-    - składnik kapitału
-    - wartość rynkowa składnika
-    - % udział składnika w całym kapitale czyli Ux (ułamek)
-    - koszt kapitału czyli Kx (wyrażony w %)
-    - obliczamy średni ważony koszt kapitału czyli Ux * Kx
-    - sumujemy wszystkie Ux*Kx (czyli dla każdego rodzaju kapitału) i otrzymujemy średni koszt kapitału spółki wyrażony w %
 
 Koszt kapitału akcyjnego uprzywilejowanego:
 ```math
@@ -43,7 +35,7 @@ Koszt kapitału z kredytu bankowego:
 \mathrm{K}_{K} = 10*(1-0,19)=8,1\%
 ```
 
-2. Wartość rynkową poszczególnych składników kapitału spółki obliczono następująco:
+2. Obliczamy wartość rynkową poszczególnych składników kapitału spółki
 
 Kapitał akcyjny uprzywilejowany:
 ```math
@@ -58,5 +50,12 @@ Kapitał z emisji obligacji:
 80000 obligacji * 1029zł/obligacja = 82 320 000zł
 ```
 
-3. Średni koszt kapitału spółki:
+3. Tworzymy tabelę z kolumnami:
+    - składnik kapitału
+    - wartość rynkowa składnika
+    - % udział składnika w całym kapitale czyli Ux (ułamek)
+    - koszt kapitału czyli Kx (wyrażony w %)
+    - obliczamy średni ważony koszt kapitału czyli Ux * Kx
+    - sumujemy wszystkie Ux*Kx (czyli dla każdego rodzaju kapitału) i otrzymujemy średni koszt kapitału spółki wyrażony w %
+
 ![image](https://user-images.githubusercontent.com/500560/224534965-1a9e96bc-c874-4195-ac6d-05e5dfa575df.png)
