@@ -1,4 +1,5 @@
 Zadanie 3.1
+
 Spółka akcyjna dysponuje kapitałem, na który składa się:
 - 100 tysięcy akcji uprzywilejowanych o wartości nominalnej 100 zł / akcja; dywidenda wynosi 8% wartości nominalnej w skali roku; akcje uprzywilejowane spółki nie są przedmiotem obrotu giełdowego, były one sprzedawane według wartości nominalnej. 
 - 1 milion 800 tysięcy akcji zwykłych o wartości nominalnej 60 zł/akcja; akcje spółki są notowane na giełdzie, ich cena wynosi obecnie 145 zł/akcję.
@@ -11,12 +12,26 @@ Rozwiązanie zad. 3.1
 
 Algorytm postępowania:
 
-    1. Obliczamy koszt (wyrażony w %) poszczególnych składowych kapitału spółki 
-    2. Obliczamy wartość rynkową poszczególnych składników kapitału spółki
-    3. Tworzymy tabelę z kolumnami:
-- składnik kapitału
-- wartość rynkowa składnika
-- % udział składnika w całym kapitale czyli Ux (ułamek)
-- koszt kapitału czyli Kx (wyrażony w %)
-- obliczamy średni ważony koszt kapitału czyli Ux * Kx
-- sumujemy wszystkie Ux*Kx (czyli dla każdego rodzaju kapitału) i otrzymujemy średni koszt kapitału spółki wyrażony w %
+1. Obliczamy koszt (wyrażony w %) poszczególnych składowych kapitału spółki 
+2. Obliczamy wartość rynkową poszczególnych składników kapitału spółki
+3. Tworzymy tabelę z kolumnami:
+    - składnik kapitału
+    - wartość rynkowa składnika
+    - % udział składnika w całym kapitale czyli Ux (ułamek)
+    - koszt kapitału czyli Kx (wyrażony w %)
+    - obliczamy średni ważony koszt kapitału czyli Ux * Kx
+    - sumujemy wszystkie Ux*Kx (czyli dla każdego rodzaju kapitału) i otrzymujemy średni koszt kapitału spółki wyrażony w %
+
+Koszt kapitału akcyjnego uprzywilejowanego:
+```math
+\mathrm{K}_{u} = \frac{0,08*100}{100}*100\%=8\%
+```
+Koszt kapitału akcyjnego zwykłego:
+```math
+\mathrm{K}_{Z} = (\frac{29}{145}+0,026)*100\%=22,6\%
+```
+Koszt kapitału z emisji obligacji:
+```math
+\mathrm{V}_{0} = 1050*(1-\frac{2}{12}*\frac{12}{100})=1029zł
+
+```
