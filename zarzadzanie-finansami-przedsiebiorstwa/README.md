@@ -71,12 +71,12 @@ Kapitał z emisji obligacji:
 Zadanie 3.2
 
 Przedsiębiorstwo rozważa pozyskanie kapitału własnego na drodze emisji akcji uprzywilejowanych co do pierwszeństwa  w wypłacie dywidend. Akcje uprzywilejowane są oferowane na następujących warunkach:
-    • cena emisyjna jednej akcji uprzywilejowanej wynosi 120 zł,
-    • wartość nominalna akcji wynosi 100 zł,
-    • dywidendy mają być płacone w wysokości 6% wartości nominalnej akcji,
-    • koszty wprowadzenia akcji do obrotu wynoszą 3,00 zł / akcję, co zmniejsza wpływy emitenta.
+- cena emisyjna jednej akcji uprzywilejowanej wynosi 120 zł,
+- wartość nominalna akcji wynosi 100 zł,
+- dywidendy mają być płacone w wysokości 6% wartości nominalnej akcji,
+- koszty wprowadzenia akcji do obrotu wynoszą 3,00 zł / akcję, co zmniejsza wpływy emitenta.
 Należy obliczyć koszt kapitału własnego uprzywilejowanego.
 
 ```math
- k_{p}= \frac {0,06\cdot 100}{120-3}=5,13%
+ k_{p}= \frac {0,06\cdot 100}{120-3}=5,13\%
 ```
